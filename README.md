@@ -15,22 +15,17 @@ I'm learning about agentic AI and how to build AI-powered applications.
 
 1. **Clone the repository**  
    ```sh
-   git clone <your-repo-url>
+   git clone [<your-repo-url>](https://github.com/daniyalquest/agent-1.git)
    cd agent-1
    ```
 
-2. **Install dependencies**  
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-3. **Set up your API key**  
+2. **Set up your API key**  
    - Create a `.env` file in the project root:
      ```
      GEMINI_API_KEY=your_gemini_api_key_here
      ```
 
-4. **Run the app**  
+3. **Run the app**  
    ```sh
    uvicorn main:app --reload
    ```
