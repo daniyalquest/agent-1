@@ -15,7 +15,7 @@ I'm learning about agentic AI and how to build AI-powered applications.
 
 1. **Clone the repository**  
    ```sh
-   git clone [<your-repo-url>](https://github.com/daniyalquest/agent-1.git)
+   git clone https://github.com/daniyalquest/agent-1.git
    cd agent-1
    ```
 
